@@ -1,1 +1,4 @@
-# SIM1_microwaveoven
+#### 微波爐模糊系統模擬實驗
+
+本專案利用MATLAB實作。
+多方法比較。
